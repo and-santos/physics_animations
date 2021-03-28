@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/BraceExample/1080p60/partial_movie_files/BraceExample/450974505_233786710_936042953.mp4'
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/BraceExample/1080p60/partial_movie_files/BraceExample/2788726626_4092469496_723570707.mp4'
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/BraceExample/1080p60/partial_movie_files/BraceExample/2788726626_1491962050_1737724396.mp4'

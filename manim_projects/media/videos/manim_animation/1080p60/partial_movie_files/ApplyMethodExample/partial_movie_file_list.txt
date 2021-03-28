@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/manim_animation/1080p60/partial_movie_files/ApplyMethodExample/450974505_1897393234_1845939467.mp4'
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/manim_animation/1080p60/partial_movie_files/ApplyMethodExample/2788726626_123398499_3493643330.mp4'
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/manim_animation/1080p60/partial_movie_files/ApplyMethodExample/2788726626_3364506822_1845939467.mp4'
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/manim_animation/1080p60/partial_movie_files/ApplyMethodExample/2788726626_123398499_2715727124.mp4'
